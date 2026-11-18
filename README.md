@@ -42,7 +42,7 @@
 
 ---
 
-## 📂 Projects
+## 🚀 Projects
 
 ### 🌐 Personal Portfolio
 My personal portfolio website showcasing my introduction, skills, learning journey and projects.
@@ -51,14 +51,10 @@ My personal portfolio website showcasing my introduction, skills, learning journ
 
 🔗 [Visit Portfolio](https://shivpartapsinghania.github.io)
 
----
-
 ### 🧠 TraceMind
 An AI-powered developer tool concept focused on understanding errors, stack traces and helping developers analyze issues.
 
 **Status:** 🚧 In Development
-
----
 
 ### 📊 Log-Lenx
 A project currently under development.
@@ -79,13 +75,13 @@ A project currently under development.
 
 ---
 
-## 📈 Contribution Graph
+## 🌌 3D Contribution Graph
 
-`<div align="center">`
+`<p align="center">`
 
-`<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />`
+`<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph" />`
 
-`</div>`
+`</p>`
 
 ---
 
