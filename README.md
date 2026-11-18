@@ -1,14 +1,13 @@
-`<div align="center">`
+<div align="center">
+  <!-- Animated Typing Header -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Shivam+Kumar+Gupta!;BTech+CSE+AI%2FML+Student;Java+Developer+in+Progress;Building+Projects+and+Learning+DSA" alt="Typing SVG" />
+</div>
 
-`<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Shivam+Kumar+Gupta!;BTech+CSE+AI%2FML+Student;Java+Developer+in+Progress;Learning+DSA+and+Building+Projects" alt="Typing SVG" />`
+<h1 align="center">👋 Welcome to My GitHub Profile</h1>
 
-`</div>`
-
-`<h1 align="center">👋 Welcome to My GitHub Profile</h1>`
-
-`<p align="center">`
-  `💻 Aspiring Software Developer | 🎓 CSE AI & ML Student | 🚀 Tech Enthusiast`
-`</p>`
+<p align="center">
+  💻 Aspiring Software Developer | 🎓 CSE AI & ML Student | 🚀 Tech Enthusiast
+</p>
 
 ---
 
@@ -19,7 +18,7 @@
 - 💻 Currently learning Java and Data Structures & Algorithms
 - 🌱 Exploring Web Development, Artificial Intelligence & Machine Learning
 - 🔨 Interested in building practical projects and solving programming problems
-- 🎯 My goal is to become a skilled software developer through consistent learning and practice
+- 🎯 Focused on learning, building and improving consistently
 
 ---
 
@@ -36,9 +35,9 @@
 
 ## 🛠️ Tech Stack
 
-`<p align="center">`
-  `<img src="https://skillicons.dev/icons?i=java,python,html,css,js,git,github,vscode,idea" alt="My Tech Stack" />`
-`</p>`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,git,github,vscode,idea" alt="Tech Stack" />
+</p>
 
 ---
 
@@ -65,48 +64,42 @@ A project currently under development.
 
 ## 📊 GitHub Stats
 
-`<div align="center">`
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shivpartapsinghania&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub Stats" />
 
-`<img src="https://github-readme-stats.vercel.app/api?username=shivpartapsinghania&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" alt="GitHub Stats" />`
-
-`<img src="https://github-readme-streak-stats.herokuapp.com/?user=shivpartapsinghania&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />`
-
-`</div>`
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivpartapsinghania&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
+</div>
 
 ---
 
 ## 🌌 3D Contribution Graph
 
-`<p align="center">`
-
-`<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph" />`
-
-`</p>`
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph" />
+</p>
 
 ---
 
 ## 🤝 Connect With Me
 
-`<p align="center">`
+<p align="center">
+  <a href="https://github.com/shivpartapsinghania">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 
-`<a href="https://github.com/shivpartapsinghania">`
-  `<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />`
-`</a>`
+  <a href="https://www.linkedin.com/in/shivam-kumar-gupta-02b748434/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-`<a href="https://www.linkedin.com/in/shivam-kumar-gupta-02b748434/">`
-  `<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />`
-`</a>`
-
-`<a href="https://shivpartapsinghania.github.io">`
-  `<img src="https://img.shields.io/badge/Portfolio-Visit-2E8B57?style=for-the-badge&logo=google-chrome&logoColor=white" />`
-`</a>`
-
-`</p>`
+  <a href="https://shivpartapsinghania.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-2E8B57?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-`<div align="center">`
+<div align="center">
 
 ### ✨ Learning, Building & Improving Every Day ✨
 
-`</div>`
+</div>
